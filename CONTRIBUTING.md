@@ -65,4 +65,4 @@ One of the organizers will review and merge your PR. If changes are needed, we'l
 
 ## Questions?
 
-Contact the organizers at [email] or [open an issue](../../issues/new?template=instructor-question.md) in this repository.
+Contact the organizers at oslo-bioinfo-workshops@ifi.uio.no or [open an issue](../../issues/new?template=instructor-question.md) in this repository.
