@@ -18,12 +18,7 @@ git https://github.com/OBIWOW/OBiWoW-2025.git
 cd OBiWoW-2025
 ```
 
-To create and enter a conda environment:
-
 ```bash
-conda env create --file nf-core.yaml -n obiwow2025
-
-conda activate obiwow2025
 
 ## install nextflow and nf-core
 curl -s https://get.nextflow.io | bash
